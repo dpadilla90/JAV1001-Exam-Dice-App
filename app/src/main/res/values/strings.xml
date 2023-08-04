@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">DiceApp</string>
+    <string name="radio_4">DiceApp</string>
+    <string name="radio_6">DiceApp</string>
+    <string name="radio_8">DiceApp</string>
+    <string name="radio_10">DiceApp</string>
+    <string name="radio_12">DiceApp</string>
+    <string name="radio_20">DiceApp</string>
+    <string name="radio_custom">DiceApp</string>
+    <string name="roll_once_button">Roll Once</string>
+    <string name="roll_twice_button">Roll Twice</string>
+    <string name="textview_result">Result: </string>
+        <string-array name="custom_sides">
+            <item>2</item>
+            <item>14</item>
+            <item>24</item>
+        </string-array>
+
+
 </resources>
